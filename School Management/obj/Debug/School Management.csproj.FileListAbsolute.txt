@@ -76,7 +76,6 @@ C:\Users\Tech Jargon\Desktop\Web Development\School Management\School Management
 C:\Users\Tech Jargon\Desktop\Web Development\School Management\School Management\bin\Newtonsoft.Json.xml
 C:\Users\Tech Jargon\Desktop\Web Development\School Management\School Management\bin\Antlr3.Runtime.pdb
 C:\Users\Tech Jargon\Desktop\Web Development\School Management\School Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Tech Jargon\Desktop\Web Development\School Management\School Management\obj\Debug\School Management.csprojAssemblyReference.cache
 C:\Users\Tech Jargon\Desktop\Web Development\School Management\School Management\obj\Debug\School Management.csproj.CoreCompileInputs.cache
 C:\Users\Tech Jargon\Desktop\Web Development\School Management\School Management\obj\Debug\School Management.csproj.CopyComplete
 C:\Users\Tech Jargon\Desktop\Web Development\School Management\School Management\obj\Debug\School Management.dll
