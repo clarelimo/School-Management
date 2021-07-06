@@ -3,8 +3,8 @@ A school management system built using ASP.NET MVC and Entity Framework
 #### By **Clare Limo**
 ## Description
 This is a school management system that allows one to create, update, view and delete courses and students. 
-##Screenshot
-![Hompage View](./images/home.PNG)
+## Screenshot
+![Hompage View](./School%20Management/Content/images/home.PNG)
 ## Setup/Installation Requirements
 * You need to have visual studio installed.
 * Clone Repository To Local Computer
