@@ -140,6 +140,7 @@
     <Compile Include="Models\Enrollment.cs">
       <DependentUpon>SchoolManagementDbModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="Models\MetaClasses\CourseMetaData.cs" />
     <Compile Include="Models\SchoolManagementDbModel.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
